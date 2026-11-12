@@ -1,0 +1,9 @@
+transformers[torch]
+datasets
+optuna
+torch
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
